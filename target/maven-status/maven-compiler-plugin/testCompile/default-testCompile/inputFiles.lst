@@ -1,0 +1,12 @@
+D:\seleniumworkspace\oprecart2023jan\src\test\java\pageObjects\BasePage.java
+D:\seleniumworkspace\oprecart2023jan\src\test\java\utilites\DataProviders.java
+D:\seleniumworkspace\oprecart2023jan\src\test\java\testBase\BaseClass.java
+D:\seleniumworkspace\oprecart2023jan\src\test\java\testCases\TC_002_LoginTest.java
+D:\seleniumworkspace\oprecart2023jan\src\test\java\pageObjects\LoginPage.java
+D:\seleniumworkspace\oprecart2023jan\src\test\java\utilites\ExcelUtility.java
+D:\seleniumworkspace\oprecart2023jan\src\test\java\testCases\TC_LoginDataDrivenTest.java
+D:\seleniumworkspace\oprecart2023jan\src\test\java\pageObjects\HomePage.java
+D:\seleniumworkspace\oprecart2023jan\src\test\java\testCases\TC_001_AccountRegistrationTest.java
+D:\seleniumworkspace\oprecart2023jan\src\test\java\utilites\ExtentReportManager.java
+D:\seleniumworkspace\oprecart2023jan\src\test\java\pageObjects\AccountRegistrationPage.java
+D:\seleniumworkspace\oprecart2023jan\src\test\java\pageObjects\MyAccountPage.java

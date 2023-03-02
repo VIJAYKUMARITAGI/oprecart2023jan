@@ -1,0 +1,17 @@
+<?xml-model href="opencartcrossbrowsertestng.xsd"?>
+<suite name="opencartSuite" parallel="tests">
+<test thread-count="5" name="chromeTest">
+<parameter name="browser" value="chrome"/>
+<classes>
+<class name="testCases.TC_001_AccountRegistrationTest"/>
+</classes>
+</test>
+<!--  opencartTest  -->
+<test thread-count="5" name="EdgeTests">
+<parameter name="browser" value="edge"/>
+<classes>
+<class name="testCases.TC_001_AccountRegistrationTest"/>
+</classes>
+</test>
+</suite>
+<!--  opencartSuite  -->
